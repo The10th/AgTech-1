@@ -28,7 +28,7 @@ h6 {
 
 .lead {
     font-size: 16px;
-    font-family: arial;
+    font-family: times;
     font-weight: lighter;
 }
 
@@ -37,7 +37,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(https://www.rabobank.com/en/images/1280-marketplace.jpg) no-repeat center center;
+    background: url(http://footprint2africa.com/wp-content/uploads/2015/12/3020337-poster-p-1-with-farmplicity-the-farm-to-table-movement-meets-the-21st-century.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -103,6 +103,22 @@ h6 {
     padding: 50px 0;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
+    background: url(../img/backgroundb.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.content-section-b h2{
+  color: lightgrey;
+}
+
+.content-section-b p{
+  color: lightgrey;
+  font-family: arial;
+}
+
+.content-section-c{
+  padding: 50px 0;
+  background-color: #004d00;
 }
 
 .section-heading {
@@ -178,4 +194,12 @@ p.copyright {
   color: grey;
   font-weight: lighter;
 
+}
+.solutionBox{
+  height: 200px;
+  background-color: #84e184;
+  border-radius: 5px;
+}
+#subscribeButton{
+  margin-top: 20px;
 }
