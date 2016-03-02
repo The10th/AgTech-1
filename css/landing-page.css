@@ -23,7 +23,6 @@ h6 {
 
 .topnav {
     font-size: 14px; 
-    background-color: #e6ffff;
 }
 
 #mainNav{
@@ -140,7 +139,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(https://www.rabobank.com/en/images/1280-marketplace.jpg) no-repeat center center;
+    background: url(../img/contactbackground.jpg) no-repeat center center;
     background-size: cover;
 }
 
